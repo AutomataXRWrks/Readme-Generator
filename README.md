@@ -1,7 +1,7 @@
 # Readme Generator File
 ### [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-##Challenge-9 Node.js Challenge: Professional README Generator
-##Table of Contents
+## Challenge-9 Node.js Challenge: Professional README Generator
+## Table of Contents
 1. [Description](#description)
 2. [Installation-Instructions](#installation-instructions)
 3. [Usage-Information](#usage-information)
@@ -9,25 +9,25 @@
 5. [Tests](#tests)
 6. [License: MIT](https://opensource.org/licenses/MIT)
 
-##Description
+## Description
 #### a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
-##Installation-Instructions
+## Installation-Instructions
 #### install node.js, run npm i for install node dependencies (inquirer)
-##Usage-Information
+## Usage-Information
 #### run node index. js for accessing the command line aplication, answer the questions accordding the file structure
 
-##Contribution-Guidelines
+## Contribution-Guidelines
 #### n/a
-##Tests
+## Tests
 #### the readme structure shown here is a tool for programatically create readme files, each time you use the application you should initialize node.js on a terminal, go to the folder of the applications downloaded and run the test commands on the command terminal , this would start de applications 
 
-##Questions
+## Questions
 #### Github Profile https://github.com/AutomataXRWrksAutomataXRWrks
 #### Reach me at andycedillo@gmail.com
 
 
-##License
-####MIT License
+## License
+#### MIT License
 
       Copyright (c) [year] [fullname]
       
